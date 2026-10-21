@@ -21,7 +21,7 @@ img {
 }
 
 .content img {
-  /* filter: blur(0px); */
+  filter: blur(2px);
   /* filter: brightness(100%); */
   /* filter: contrast(100%); */
   /* filter: drop-shadow(1rem 1rem 1rem green); */
