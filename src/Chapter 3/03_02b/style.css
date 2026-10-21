@@ -28,7 +28,7 @@ img {
   /* filter: grayscale(48%); */
  /* filter: hue-rotate(180deg); */
   /* filter: invert(73%); */
-  filter: opacity(37%);
-  /* filter: saturate(100%); */
+ /* filter: opacity(37%); */
+  filter: saturate(100%);
   /* filter: sepia(0%); */
 }
