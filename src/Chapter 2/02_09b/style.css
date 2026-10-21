@@ -31,4 +31,5 @@ img {
   padding: 2rem;
   text-align: center;
   background-clip: text;
+  color: transparent;
 }
