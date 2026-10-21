@@ -23,7 +23,10 @@ img {
   img {
   height: 100%;
   object-fit: cover;
-  object-position: top;
+
+  &:nth-of-type(2) {
+    object-position: top;
+  }
 }
 }
 
