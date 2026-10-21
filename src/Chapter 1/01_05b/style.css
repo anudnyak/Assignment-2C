@@ -22,9 +22,11 @@ img {
 }
 
 .image {
-  height: inherit;
+  height: 100%;
   object-fit: cover;
-  width: inherit;
+  width: 100%;
+  position: absolute;
+  top: 0;
 }
 
 figcaption {
