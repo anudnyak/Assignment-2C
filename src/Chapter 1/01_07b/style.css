@@ -18,6 +18,8 @@ img {
   display: flex;
 }
 
-.content img {}
+.content img {
+  width: 25%;
+}
 
 figure {}
