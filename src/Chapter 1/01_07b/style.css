@@ -22,4 +22,6 @@ img {
   object-fit: cover;
 }
 
-figure {}
+figure {
+  margin: 0;
+}
