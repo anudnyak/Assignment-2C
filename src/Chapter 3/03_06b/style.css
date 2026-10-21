@@ -24,5 +24,5 @@ img {
 }
 
 .content img {
-  mix-blend-mode: exclusion;
+  mix-blend-mode: soft-light;
 }
