@@ -23,7 +23,7 @@ img {
 .content img {
    /* filter: blur(6px); */
   /* filter: brightness(1000%); */
-  filter: contrast(100%);
+  filter: contrast(0%);
   /* filter: drop-shadow(1rem 1rem 1rem green); */
   /* filter: grayscale(0%); */
   /* filter: hue-rotate(0deg); */
