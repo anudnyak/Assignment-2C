@@ -20,5 +20,5 @@ img {
 }
 
 .content img {
-  clip-path: circle(344px);
+  clip-path: circle(192px at 92px 106px);
 }
