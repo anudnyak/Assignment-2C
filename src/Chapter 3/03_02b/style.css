@@ -30,5 +30,5 @@ img {
   /* filter: invert(73%); */
  /* filter: opacity(37%); */
   /* filter: saturate(200%); */
-  filter: sepia(0%);
+  filter: sepia(100%);
 }
