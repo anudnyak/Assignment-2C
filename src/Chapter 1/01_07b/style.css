@@ -19,8 +19,7 @@ img {
 }
 
 .content img {
-  width: 25%;
-  object-fit: scale-down;
+  object-fit: cover;
 }
 
 figure {}
