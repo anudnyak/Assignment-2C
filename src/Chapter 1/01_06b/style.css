@@ -21,12 +21,11 @@ img {
   grid-template-rows: repeat(2, 20rem);
 
   img {
-  height: 100%;
-  object-fit: cover;
+    height: 100%;
+    object-fit: cover;
 
-  &:nth-of-type(2) {
-    object-position: top;
+    &:nth-of-type(2) {
+      object-position: top;
+    }
   }
 }
-}
-
