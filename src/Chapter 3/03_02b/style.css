@@ -21,14 +21,14 @@ img {
 }
 
 .content img {
-   /* filter: blur(6px); */
+  /* filter: blur(6px); */
   /* filter: brightness(1000%); */
-   /* filter: contrast(196%); */
+  /* filter: contrast(196%); */
   /* filter: drop-shadow(1rem 1rem 1rem green); */
   /* filter: grayscale(48%); */
- /* filter: hue-rotate(180deg); */
+  /* filter: hue-rotate(180deg); */
   /* filter: invert(73%); */
- /* filter: opacity(37%); */
+  /* filter: opacity(37%); */
   /* filter: saturate(200%); */
   filter: sepia(52%);
 }
